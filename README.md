@@ -13,3 +13,5 @@
 #define QUEUE_MODE LIFO // deque func lifo or fifo
 #define SIZE 5 // Specifying the maximum limit of the queue, max 128 bcs of int8_t tail, int8_t head
 ```
+
+  - For examples and usage check test.c 
